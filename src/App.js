@@ -39,7 +39,7 @@ const onClick = e => {
         )}
       </div>
       <div className='footer'>
-        <p>Hello There, this is a footer!</p>
+        <p>Hello There!, this is a footer!</p>
       </div>
     </div>
   );
